@@ -1,2 +1,4 @@
 # anywhere in .gitignore
 node_modules
+.DS_Store
+DS_Store
